@@ -1,0 +1,45 @@
+[submodule "extra/Arduino_Core_STM32"]
+	path = extra/Arduino_Core_STM32
+	url = git@github.com:mcci-catena/Arduino_Core_STM32.git
+[submodule "extra/bootloader"]
+	path = extra/bootloader
+	url = git@github.com:mcci-catena/bootloader.git
+[submodule "extra/dfu-util"]
+	path = extra/dfu-util
+	url = git://git.code.sf.net/p/dfu-util/dfu-util
+[submodule "extra/tools-build-with-cli"]
+	path = extra/tools-build-with-cli
+	url = git@github.com:mcci-catena/tools-build-with-cli.git
+[submodule "libraries/arduino-lmic"]
+	path = libraries/arduino-lmic
+	url = git@github.com:mcci-catena/arduino-lmic
+[submodule "libraries/Catena-Arduino-Platform"]
+	path = libraries/Catena-Arduino-Platform
+	url = git@github.com:mcci-catena/Catena-Arduino-Platform.git
+[submodule "libraries/arduinounit"]
+	path = libraries/arduinounit
+	url = git@github.com:mcci-catena/arduinounit.git
+[submodule "libraries/catena-mfgtest"]
+	path = libraries/catena-mfgtest
+	url = git@gitlab-x.mcci.com:mcci/hardware/catena/mfg/catena-mfgtest.git
+[submodule "libraries/MCCI-Catena-SHT3x"]
+	path = libraries/MCCI-Catena-SHT3x
+	url = git@github.com:mcci-catena/MCCI-Catena-SHT3x.git
+[submodule "libraries/Catena-mcciadk"]
+	path = libraries/Catena-mcciadk
+	url = git@github.com:mcci-catena/Catena-mcciadk.git
+[submodule "libraries/arduino-lorawan"]
+	path = libraries/arduino-lorawan
+	url = git@github.com:mcci-catena/arduino-lorawan.git
+[submodule "libraries/MCCI_FRAM_I2C"]
+	path = libraries/MCCI_FRAM_I2C
+	url = git@github.com:mcci-catena/MCCI_FRAM_I2C.git
+[submodule "libraries/MCCI-Catena-PMS7003"]
+	path = libraries/MCCI-Catena-PMS7003
+	url = git@github.com:mcci-catena/MCCI-Catena-PMS7003.git
+[submodule "libraries/SGPC3"]
+	path = libraries/SGPC3
+	url = git@github.com:mcci-catena/SGPC3.git
+[submodule "sketches/catena4630-mfgtest"]
+	path = sketches/catena4630-mfgtest
+	url = git@gitlab-x.mcci.com:Pranau-R/catena4630-mfgtest.git
