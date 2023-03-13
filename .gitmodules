@@ -42,4 +42,4 @@
 	url = git@github.com:mcci-catena/SGPC3.git
 [submodule "sketches/catena4630-mfgtest"]
 	path = sketches/catena4630-mfgtest
-	url = git@gitlab-x.mcci.com:Pranau-R/catena4630-mfgtest.git
+	url = git@gitlab-x.mcci.com:mcci/hardware/catena/catena4630/sketches/catena4630-mfgtest.git
